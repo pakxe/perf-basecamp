@@ -1,8 +1,8 @@
 {
   "hash": "d91badb670f973b00255",
   "version": "5.94.0",
-  "time": 7164,
-  "builtAt": 1725539612617,
+  "time": 6054,
+  "builtAt": 1725539668798,
   "publicPath": "auto",
   "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
   "assetsByChunkName": {
@@ -104,8 +104,8 @@
       "type": "asset",
       "name": "bundle.js",
       "size": 155578,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -128,8 +128,8 @@
           "type": "sourceMap",
           "name": "bundle.js.map",
           "size": 464861,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -152,8 +152,8 @@
           "type": "license",
           "name": "bundle.js.LICENSE.txt",
           "size": 1421,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "extractedComments": true,
@@ -179,8 +179,8 @@
       "type": "asset",
       "name": "630.bundle.js",
       "size": 13588,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -201,8 +201,8 @@
           "type": "sourceMap",
           "name": "630.bundle.js.map",
           "size": 23912,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -223,8 +223,8 @@
           "type": "license",
           "name": "630.bundle.js.LICENSE.txt",
           "size": 124,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "extractedComments": true,
@@ -250,8 +250,8 @@
       "type": "asset",
       "name": "526.bundle.js",
       "size": 8366,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -271,8 +271,8 @@
           "type": "sourceMap",
           "name": "526.bundle.js.map",
           "size": 24405,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -300,8 +300,8 @@
       "type": "asset",
       "name": "526.css",
       "size": 5164,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
@@ -320,8 +320,8 @@
           "type": "sourceMap",
           "name": "526.css.map",
           "size": 9732,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -370,8 +370,8 @@
       "type": "asset",
       "name": "514.bundle.js",
       "size": 3502,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -394,8 +394,8 @@
           "type": "sourceMap",
           "name": "514.bundle.js.map",
           "size": 680282,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -418,8 +418,8 @@
           "type": "license",
           "name": "514.bundle.js.LICENSE.txt",
           "size": 124,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "extractedComments": true,
@@ -445,8 +445,8 @@
       "type": "asset",
       "name": "630.css",
       "size": 2989,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
@@ -465,8 +465,8 @@
           "type": "sourceMap",
           "name": "630.css.map",
           "size": 5616,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -494,8 +494,8 @@
       "type": "asset",
       "name": "main.css",
       "size": 1653,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
@@ -516,8 +516,8 @@
           "type": "sourceMap",
           "name": "main.css.map",
           "size": 3210,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -547,8 +547,8 @@
       "type": "asset",
       "name": "index.html",
       "size": 672,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "size": 672
@@ -75192,7 +75192,7 @@
   "warnings": [
     {
       "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  static/hero.png (10.2 MiB)\n  static/trending.gif (1.2 MiB)\n  static/find.gif (1.89 MiB)\n  static/free.gif (1.61 MiB)",
-      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  static/hero.png (10.2 MiB)\n  static/trending.gif (1.2 MiB)\n  static/find.gif (1.89 MiB)\n  static/free.gif (1.61 MiB)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:145:7\n    at Hook.eval [as callAsync] (eval at create (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/tapable/lib/Hook.js:18:14)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/Compiler.js:1004:27\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/neo-async/async.js:2818:7\n    at done (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/Compiler.js:833:33\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/graceful-fs/graceful-fs.js:143:16\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/graceful-fs/graceful-fs.js:61:14"
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  static/hero.png (10.2 MiB)\n  static/trending.gif (1.2 MiB)\n  static/find.gif (1.89 MiB)\n  static/free.gif (1.61 MiB)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:145:7\n    at Hook.eval [as callAsync] (eval at create (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/tapable/lib/Hook.js:18:14)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/Compiler.js:1004:27\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/neo-async/async.js:2818:7\n    at done (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/neo-async/async.js:3522:9)\n    at alreadyWritten (/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/Compiler.js:809:8)\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/webpack/lib/Compiler.js:920:17\n    at /Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/graceful-fs/graceful-fs.js:123:16\n    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read/context:68:3)"
     }
   ],
   "warningsCount": 1,
@@ -75201,8 +75201,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "e64ed5657a4e7afe11ee",
       "version": "5.94.0",
-      "time": 82,
-      "builtAt": 1725539605566,
+      "time": 77,
+      "builtAt": 1725539662844,
       "publicPath": "",
       "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
       "assetsByChunkName": {},
