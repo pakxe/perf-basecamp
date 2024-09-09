@@ -1,8 +1,8 @@
 {
-  "hash": "d797688a6a369cec84e5",
+  "hash": "4c93663f75befe706760",
   "version": "5.94.0",
-  "time": 5827,
-  "builtAt": 1725865362850,
+  "time": 8192,
+  "builtAt": 1725866141172,
   "publicPath": "auto",
   "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
   "assetsByChunkName": {
@@ -16,7 +16,7 @@
       "type": "asset",
       "name": "bundle.js",
       "size": 155565,
-      "emitted": true,
+      "emitted": false,
       "comparedForEmit": true,
       "cached": false,
       "info": {
@@ -40,7 +40,7 @@
           "type": "sourceMap",
           "name": "bundle.js.map",
           "size": 464846,
-          "emitted": true,
+          "emitted": false,
           "comparedForEmit": true,
           "cached": false,
           "info": {
@@ -162,8 +162,8 @@
       "type": "asset",
       "name": "634.bundle.js",
       "size": 9256,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -183,8 +183,8 @@
           "type": "sourceMap",
           "name": "634.bundle.js.map",
           "size": 27023,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -212,8 +212,8 @@
       "type": "asset",
       "name": "634.css",
       "size": 5164,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "minimized": true,
@@ -232,8 +232,8 @@
           "type": "sourceMap",
           "name": "634.css.map",
           "size": 9732,
-          "emitted": true,
-          "comparedForEmit": false,
+          "emitted": false,
+          "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
@@ -458,12 +458,12 @@
     {
       "type": "asset",
       "name": "index.html",
-      "size": 672,
-      "emitted": false,
-      "comparedForEmit": true,
+      "size": 669,
+      "emitted": true,
+      "comparedForEmit": false,
       "cached": false,
       "info": {
-        "size": 672
+        "size": 669
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -74412,10 +74412,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "e64ed5657a4e7afe11ee",
+      "hash": "6920aba7647b0ab7f388",
       "version": "5.94.0",
-      "time": 72,
-      "builtAt": 1725865357122,
+      "time": 81,
+      "builtAt": 1725866133088,
       "publicPath": "",
       "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
       "assetsByChunkName": {},
@@ -74426,9 +74426,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 1454,
+          "size": 1451,
           "sizes": {
-            "javascript": 1014,
+            "javascript": 1011,
             "runtime": 440
           },
           "names": [
@@ -74440,7 +74440,7 @@
           ],
           "files": [],
           "auxiliaryFiles": [],
-          "hash": "d5e387ad15f89d709541",
+          "hash": "629e7b0877e5f0102be2",
           "childrenByOrder": {},
           "id": 394,
           "siblings": [],
@@ -74451,9 +74451,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 937,
+              "size": 934,
               "sizes": {
-                "javascript": 937
+                "javascript": 934
               },
               "built": true,
               "codeGenerated": true,
@@ -74781,9 +74781,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 937,
+          "size": 934,
           "sizes": {
-            "javascript": 937
+            "javascript": 934
           },
           "built": true,
           "codeGenerated": true,
