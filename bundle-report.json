@@ -1,8 +1,8 @@
 {
-  "hash": "4c93663f75befe706760",
+  "hash": "dccfa7587ebddfae96e5",
   "version": "5.94.0",
-  "time": 8192,
-  "builtAt": 1725866141172,
+  "time": 4745,
+  "builtAt": 1725970535906,
   "publicPath": "auto",
   "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "bundle.js",
-      "size": 155565,
+      "size": 155619,
       "emitted": false,
       "comparedForEmit": true,
       "cached": false,
@@ -26,7 +26,7 @@
           "license": "bundle.js.LICENSE.txt",
           "sourceMap": "bundle.js.map"
         },
-        "size": 155565
+        "size": 155619
       },
       "chunkNames": [
         "main"
@@ -39,13 +39,13 @@
         {
           "type": "sourceMap",
           "name": "bundle.js.map",
-          "size": 464846,
+          "size": 464931,
           "emitted": false,
           "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
-            "size": 464846
+            "size": 464931
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -90,7 +90,7 @@
     {
       "type": "asset",
       "name": "718.bundle.js",
-      "size": 13680,
+      "size": 13751,
       "emitted": false,
       "comparedForEmit": true,
       "cached": false,
@@ -101,7 +101,7 @@
           "license": "718.bundle.js.LICENSE.txt",
           "sourceMap": "718.bundle.js.map"
         },
-        "size": 13680
+        "size": 13751
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -112,13 +112,13 @@
         {
           "type": "sourceMap",
           "name": "718.bundle.js.map",
-          "size": 23309,
+          "size": 23565,
           "emitted": false,
           "comparedForEmit": true,
           "cached": false,
           "info": {
             "development": true,
-            "size": 23309
+            "size": 23565
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -458,12 +458,12 @@
     {
       "type": "asset",
       "name": "index.html",
-      "size": 669,
-      "emitted": true,
-      "comparedForEmit": false,
+      "size": 893,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
-        "size": 669
+        "size": 893
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -17165,9 +17165,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 21317,
+      "size": 21414,
       "sizes": {
-        "javascript": 17644,
+        "javascript": 17741,
         "css/mini-extract": 3673
       },
       "names": [],
@@ -17183,7 +17183,7 @@
         "718.bundle.js.map",
         "718.css.map"
       ],
-      "hash": "4722c335f12dae710735",
+      "hash": "a0dbb520e2b0d04a151e",
       "childrenByOrder": {},
       "id": 718,
       "siblings": [],
@@ -17372,9 +17372,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 16352,
+          "size": 16449,
           "sizes": {
-            "javascript": 16352
+            "javascript": 16449
           },
           "built": true,
           "codeGenerated": true,
@@ -17445,9 +17445,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 2290,
+              "size": 2363,
               "sizes": {
-                "javascript": 2290
+                "javascript": 2363
               },
               "built": true,
               "codeGenerated": false,
@@ -17499,9 +17499,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 481,
+              "size": 505,
               "sizes": {
-                "javascript": 481
+                "javascript": 505
               },
               "built": true,
               "codeGenerated": false,
@@ -17569,21 +17569,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./components/FeatureItem/FeatureItem",
-                  "loc": "16:1045-1056",
-                  "moduleId": null,
-                  "resolvedModuleId": null
-                },
-                {
-                  "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-                  "module": "./src/pages/Home/Home.tsx",
-                  "moduleName": "./src/pages/Home/Home.tsx",
-                  "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-                  "resolvedModule": "./src/pages/Home/Home.tsx",
-                  "type": "harmony import specifier",
-                  "active": true,
-                  "explanation": "",
-                  "userRequest": "./components/FeatureItem/FeatureItem",
-                  "loc": "16:1121-1132",
+                  "loc": "16:1118-1129",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17598,6 +17584,20 @@
                   "explanation": "",
                   "userRequest": "./components/FeatureItem/FeatureItem",
                   "loc": "16:1194-1205",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+                  "module": "./src/pages/Home/Home.tsx",
+                  "moduleName": "./src/pages/Home/Home.tsx",
+                  "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+                  "resolvedModule": "./src/pages/Home/Home.tsx",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./components/FeatureItem/FeatureItem",
+                  "loc": "16:1267-1278",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -17687,7 +17687,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./components/CustomCursor/CustomCursor",
-                  "loc": "16:1437-1449",
+                  "loc": "16:1510-1522",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -17777,7 +17777,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./components/AnimatedPath/AnimatedPath",
-                  "loc": "16:739-751",
+                  "loc": "16:812-824",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -17909,7 +17909,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:245-264",
+                  "loc": "16:318-337",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17923,7 +17923,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:319-331",
+                  "loc": "16:392-404",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17937,7 +17937,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:400-415",
+                  "loc": "16:473-488",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17951,7 +17951,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:696-717",
+                  "loc": "16:769-790",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17965,7 +17965,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:822-850",
+                  "loc": "16:895-923",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17979,7 +17979,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:905-924",
+                  "loc": "16:978-997",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -17993,7 +17993,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:996-1023",
+                  "loc": "16:1069-1096",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -18007,7 +18007,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./Home.module.css",
-                  "loc": "16:1365-1382",
+                  "loc": "16:1438-1455",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -18130,7 +18130,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./FeatureItem.module.css",
-                  "loc": "4:176-197",
+                  "loc": "4:192-213",
                   "moduleId": null,
                   "resolvedModuleId": null
                 },
@@ -18144,7 +18144,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./FeatureItem.module.css",
-                  "loc": "4:240-259",
+                  "loc": "4:256-275",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -19041,9 +19041,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 228850,
+      "size": 228913,
       "sizes": {
-        "javascript": 216739,
+        "javascript": 216802,
         "css/mini-extract": 2033,
         "runtime": 10078
       },
@@ -19062,7 +19062,7 @@
         "bundle.js.map",
         "main.css.map"
       ],
-      "hash": "1bc16aa8caf00f63de4a",
+      "hash": "341afd2d793840014958",
       "childrenByOrder": {},
       "id": 792,
       "siblings": [],
@@ -19991,7 +19991,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:192-198",
+              "loc": "10:255-261",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20005,7 +20005,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:218-223",
+              "loc": "10:281-286",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20019,7 +20019,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:271-276",
+              "loc": "10:334-339",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20103,7 +20103,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:192-198",
+              "loc": "10:255-261",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -20117,7 +20117,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:218-223",
+              "loc": "10:281-286",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -20131,7 +20131,7 @@
               "active": false,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "10:271-276",
+              "loc": "10:334-339",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -20201,7 +20201,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "16:474-478",
+              "loc": "16:547-551",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -20215,7 +20215,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react-router-dom",
-              "loc": "16:1272-1276",
+              "loc": "16:1345-1349",
               "moduleId": 718,
               "resolvedModuleId": null
             }
@@ -20948,7 +20948,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:192-198",
+              "loc": "10:255-261",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20962,7 +20962,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:218-223",
+              "loc": "10:281-286",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20976,7 +20976,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:271-276",
+              "loc": "10:334-339",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -20990,7 +20990,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:192-198",
+              "loc": "10:255-261",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -21004,7 +21004,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:218-223",
+              "loc": "10:281-286",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -21018,7 +21018,7 @@
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
               "userRequest": "react-router-dom",
-              "loc": "10:271-276",
+              "loc": "10:334-339",
               "moduleId": 97,
               "resolvedModuleId": null
             }
@@ -23279,7 +23279,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:186-191",
+              "loc": "10:249-254",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23293,7 +23293,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:213-217",
+              "loc": "10:276-280",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23307,7 +23307,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:247-251",
+              "loc": "10:310-314",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23321,7 +23321,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:266-270",
+              "loc": "10:329-333",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23335,7 +23335,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:306-310",
+              "loc": "10:369-373",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23349,7 +23349,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:335-339",
+              "loc": "10:398-402",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -23587,7 +23587,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:186-191",
+              "loc": "10:249-254",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23601,7 +23601,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:213-217",
+              "loc": "10:276-280",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23615,7 +23615,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:247-251",
+              "loc": "10:310-314",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23629,7 +23629,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:266-270",
+              "loc": "10:329-333",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23643,7 +23643,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:306-310",
+              "loc": "10:369-373",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23657,7 +23657,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "10:335-339",
+              "loc": "10:398-402",
               "moduleId": 97,
               "resolvedModuleId": null
             },
@@ -23923,7 +23923,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:205-210",
+              "loc": "16:278-283",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -23937,7 +23937,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:281-285",
+              "loc": "16:354-358",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -23951,7 +23951,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:362-366",
+              "loc": "16:435-439",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -23965,7 +23965,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:469-473",
+              "loc": "16:542-546",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -23979,7 +23979,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:525-529",
+              "loc": "16:598-602",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -23993,7 +23993,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:635-640",
+              "loc": "16:708-713",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24007,7 +24007,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:734-738",
+              "loc": "16:807-811",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24021,7 +24021,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:782-787",
+              "loc": "16:855-860",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24035,7 +24035,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:867-871",
+              "loc": "16:940-944",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24049,7 +24049,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:956-961",
+              "loc": "16:1029-1034",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24063,21 +24063,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:1040-1044",
-              "moduleId": 718,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx|846796c0ec9fd79a5895d0059ab45e01",
-              "module": "./src/pages/Home/Home.tsx + 10 modules",
-              "moduleName": "./src/pages/Home/Home.tsx + 10 modules",
-              "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-              "resolvedModule": "./src/pages/Home/Home.tsx",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react/jsx-runtime",
-              "loc": "16:1116-1120",
+              "loc": "16:1113-1117",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24105,7 +24091,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:1267-1271",
+              "loc": "16:1262-1266",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24119,7 +24105,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:1323-1327",
+              "loc": "16:1340-1344",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24133,7 +24119,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "16:1432-1436",
+              "loc": "16:1396-1400",
+              "moduleId": 718,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx|846796c0ec9fd79a5895d0059ab45e01",
+              "module": "./src/pages/Home/Home.tsx + 10 modules",
+              "moduleName": "./src/pages/Home/Home.tsx + 10 modules",
+              "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+              "resolvedModule": "./src/pages/Home/Home.tsx",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "react/jsx-runtime",
+              "loc": "16:1505-1509",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24273,7 +24273,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "4:151-155",
+              "loc": "4:167-171",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24287,7 +24287,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "4:202-206",
+              "loc": "4:218-222",
               "moduleId": 718,
               "resolvedModuleId": null
             },
@@ -24427,7 +24427,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "4:151-155",
+              "loc": "4:167-171",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -24441,7 +24441,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react/jsx-runtime",
-              "loc": "4:202-206",
+              "loc": "4:218-222",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -26552,9 +26552,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 2274,
+          "size": 2337,
           "sizes": {
-            "javascript": 2274
+            "javascript": 2337
           },
           "built": true,
           "codeGenerated": true,
@@ -26651,9 +26651,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 813,
+              "size": 876,
               "sizes": {
-                "javascript": 813
+                "javascript": 876
               },
               "built": true,
               "codeGenerated": false,
@@ -26881,7 +26881,7 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "./components/Footer/Footer",
-                  "loc": "10:340-346",
+                  "loc": "10:403-409",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
@@ -27806,9 +27806,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 2274,
+      "size": 2337,
       "sizes": {
-        "javascript": 2274
+        "javascript": 2337
       },
       "built": true,
       "codeGenerated": true,
@@ -27903,9 +27903,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 813,
+          "size": 876,
           "sizes": {
-            "javascript": 813
+            "javascript": 876
           },
           "built": true,
           "codeGenerated": false,
@@ -28130,7 +28130,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./components/Footer/Footer",
-              "loc": "10:340-346",
+              "loc": "10:403-409",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -28473,7 +28473,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:186-191",
+          "loc": "10:249-254",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28487,7 +28487,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:213-217",
+          "loc": "10:276-280",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28501,7 +28501,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:247-251",
+          "loc": "10:310-314",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28515,7 +28515,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:266-270",
+          "loc": "10:329-333",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28529,7 +28529,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:306-310",
+          "loc": "10:369-373",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28543,7 +28543,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:335-339",
+          "loc": "10:398-402",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -28781,7 +28781,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:186-191",
+          "loc": "10:249-254",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -28795,7 +28795,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:213-217",
+          "loc": "10:276-280",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -28809,7 +28809,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:247-251",
+          "loc": "10:310-314",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -28823,7 +28823,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:266-270",
+          "loc": "10:329-333",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -28837,7 +28837,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:306-310",
+          "loc": "10:369-373",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -28851,7 +28851,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "10:335-339",
+          "loc": "10:398-402",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -29117,7 +29117,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:205-210",
+          "loc": "16:278-283",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29131,7 +29131,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:281-285",
+          "loc": "16:354-358",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29145,7 +29145,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:362-366",
+          "loc": "16:435-439",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29159,7 +29159,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:469-473",
+          "loc": "16:542-546",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29173,7 +29173,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:525-529",
+          "loc": "16:598-602",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29187,7 +29187,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:635-640",
+          "loc": "16:708-713",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29201,7 +29201,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:734-738",
+          "loc": "16:807-811",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29215,7 +29215,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:782-787",
+          "loc": "16:855-860",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29229,7 +29229,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:867-871",
+          "loc": "16:940-944",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29243,7 +29243,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:956-961",
+          "loc": "16:1029-1034",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29257,21 +29257,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:1040-1044",
-          "moduleId": 718,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx|846796c0ec9fd79a5895d0059ab45e01",
-          "module": "./src/pages/Home/Home.tsx + 10 modules",
-          "moduleName": "./src/pages/Home/Home.tsx + 10 modules",
-          "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-          "resolvedModule": "./src/pages/Home/Home.tsx",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react/jsx-runtime",
-          "loc": "16:1116-1120",
+          "loc": "16:1113-1117",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29299,7 +29285,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:1267-1271",
+          "loc": "16:1262-1266",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29313,7 +29299,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:1323-1327",
+          "loc": "16:1340-1344",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29327,7 +29313,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "16:1432-1436",
+          "loc": "16:1396-1400",
+          "moduleId": 718,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx|846796c0ec9fd79a5895d0059ab45e01",
+          "module": "./src/pages/Home/Home.tsx + 10 modules",
+          "moduleName": "./src/pages/Home/Home.tsx + 10 modules",
+          "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+          "resolvedModule": "./src/pages/Home/Home.tsx",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "react/jsx-runtime",
+          "loc": "16:1505-1509",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29467,7 +29467,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "4:151-155",
+          "loc": "4:167-171",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29481,7 +29481,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "4:202-206",
+          "loc": "4:218-222",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -29621,7 +29621,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "4:151-155",
+          "loc": "4:167-171",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -29635,7 +29635,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react/jsx-runtime",
-          "loc": "4:202-206",
+          "loc": "4:218-222",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -31549,9 +31549,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 813,
+      "size": 876,
       "sizes": {
-        "javascript": 813
+        "javascript": 876
       },
       "built": true,
       "codeGenerated": false,
@@ -33764,7 +33764,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:192-198",
+          "loc": "10:255-261",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -33778,7 +33778,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:218-223",
+          "loc": "10:281-286",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -33792,7 +33792,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:271-276",
+          "loc": "10:334-339",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -33876,7 +33876,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:192-198",
+          "loc": "10:255-261",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -33890,7 +33890,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:218-223",
+          "loc": "10:281-286",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -33904,7 +33904,7 @@
           "active": false,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "10:271-276",
+          "loc": "10:334-339",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -33974,7 +33974,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "16:474-478",
+          "loc": "16:547-551",
           "moduleId": 718,
           "resolvedModuleId": null
         },
@@ -33988,7 +33988,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react-router-dom",
-          "loc": "16:1272-1276",
+          "loc": "16:1345-1349",
           "moduleId": 718,
           "resolvedModuleId": null
         }
@@ -34720,7 +34720,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:192-198",
+          "loc": "10:255-261",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -34734,7 +34734,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:218-223",
+          "loc": "10:281-286",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -34748,7 +34748,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:271-276",
+          "loc": "10:334-339",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -34762,7 +34762,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:192-198",
+          "loc": "10:255-261",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -34776,7 +34776,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:218-223",
+          "loc": "10:281-286",
           "moduleId": 97,
           "resolvedModuleId": null
         },
@@ -34790,7 +34790,7 @@
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
           "userRequest": "react-router-dom",
-          "loc": "10:271-276",
+          "loc": "10:334-339",
           "moduleId": 97,
           "resolvedModuleId": null
         }
@@ -34994,7 +34994,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./components/Footer/Footer",
-          "loc": "10:340-346",
+          "loc": "10:403-409",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -35014,9 +35014,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 16352,
+      "size": 16449,
       "sizes": {
-        "javascript": 16352
+        "javascript": 16449
       },
       "built": true,
       "codeGenerated": true,
@@ -35086,9 +35086,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 2290,
+          "size": 2363,
           "sizes": {
-            "javascript": 2290
+            "javascript": 2363
           },
           "built": true,
           "codeGenerated": false,
@@ -35139,9 +35139,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 481,
+          "size": 505,
           "sizes": {
-            "javascript": 481
+            "javascript": 505
           },
           "built": true,
           "codeGenerated": false,
@@ -35208,21 +35208,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./components/FeatureItem/FeatureItem",
-              "loc": "16:1045-1056",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-              "module": "./src/pages/Home/Home.tsx",
-              "moduleName": "./src/pages/Home/Home.tsx",
-              "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-              "resolvedModule": "./src/pages/Home/Home.tsx",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "./components/FeatureItem/FeatureItem",
-              "loc": "16:1121-1132",
+              "loc": "16:1118-1129",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35237,6 +35223,20 @@
               "explanation": "",
               "userRequest": "./components/FeatureItem/FeatureItem",
               "loc": "16:1194-1205",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+              "module": "./src/pages/Home/Home.tsx",
+              "moduleName": "./src/pages/Home/Home.tsx",
+              "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+              "resolvedModule": "./src/pages/Home/Home.tsx",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./components/FeatureItem/FeatureItem",
+              "loc": "16:1267-1278",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -35325,7 +35325,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./components/CustomCursor/CustomCursor",
-              "loc": "16:1437-1449",
+              "loc": "16:1510-1522",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -35414,7 +35414,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./components/AnimatedPath/AnimatedPath",
-              "loc": "16:739-751",
+              "loc": "16:812-824",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -35545,7 +35545,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:245-264",
+              "loc": "16:318-337",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35559,7 +35559,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:319-331",
+              "loc": "16:392-404",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35573,7 +35573,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:400-415",
+              "loc": "16:473-488",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35587,7 +35587,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:696-717",
+              "loc": "16:769-790",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35601,7 +35601,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:822-850",
+              "loc": "16:895-923",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35615,7 +35615,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:905-924",
+              "loc": "16:978-997",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35629,7 +35629,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:996-1023",
+              "loc": "16:1069-1096",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35643,7 +35643,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./Home.module.css",
-              "loc": "16:1365-1382",
+              "loc": "16:1438-1455",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -35765,7 +35765,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./FeatureItem.module.css",
-              "loc": "4:176-197",
+              "loc": "4:192-213",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -35779,7 +35779,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "./FeatureItem.module.css",
-              "loc": "4:240-259",
+              "loc": "4:256-275",
               "moduleId": null,
               "resolvedModuleId": null
             }
@@ -39962,9 +39962,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 481,
+      "size": 505,
       "sizes": {
-        "javascript": 481
+        "javascript": 505
       },
       "built": true,
       "codeGenerated": false,
@@ -40031,21 +40031,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./components/FeatureItem/FeatureItem",
-          "loc": "16:1045-1056",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-          "module": "./src/pages/Home/Home.tsx",
-          "moduleName": "./src/pages/Home/Home.tsx",
-          "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
-          "resolvedModule": "./src/pages/Home/Home.tsx",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "./components/FeatureItem/FeatureItem",
-          "loc": "16:1121-1132",
+          "loc": "16:1118-1129",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40060,6 +40046,20 @@
           "explanation": "",
           "userRequest": "./components/FeatureItem/FeatureItem",
           "loc": "16:1194-1205",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+          "module": "./src/pages/Home/Home.tsx",
+          "moduleName": "./src/pages/Home/Home.tsx",
+          "resolvedModuleIdentifier": "/Users/pakxe/Desktop/wtc/perf-basecamp/node_modules/ts-loader/index.js!/Users/pakxe/Desktop/wtc/perf-basecamp/src/pages/Home/Home.tsx",
+          "resolvedModule": "./src/pages/Home/Home.tsx",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./components/FeatureItem/FeatureItem",
+          "loc": "16:1267-1278",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -40148,7 +40148,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./components/CustomCursor/CustomCursor",
-          "loc": "16:1437-1449",
+          "loc": "16:1510-1522",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -40237,7 +40237,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./components/AnimatedPath/AnimatedPath",
-          "loc": "16:739-751",
+          "loc": "16:812-824",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -40368,7 +40368,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:245-264",
+          "loc": "16:318-337",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40382,7 +40382,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:319-331",
+          "loc": "16:392-404",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40396,7 +40396,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:400-415",
+          "loc": "16:473-488",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40410,7 +40410,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:696-717",
+          "loc": "16:769-790",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40424,7 +40424,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:822-850",
+          "loc": "16:895-923",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40438,7 +40438,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:905-924",
+          "loc": "16:978-997",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40452,7 +40452,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:996-1023",
+          "loc": "16:1069-1096",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -40466,7 +40466,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./Home.module.css",
-          "loc": "16:1365-1382",
+          "loc": "16:1438-1455",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -41600,7 +41600,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./FeatureItem.module.css",
-          "loc": "4:176-197",
+          "loc": "4:192-213",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -41614,7 +41614,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "./FeatureItem.module.css",
-          "loc": "4:240-259",
+          "loc": "4:256-275",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -74348,15 +74348,15 @@
         },
         {
           "name": "bundle.js",
-          "size": 155565
+          "size": 155619
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 157218,
+      "assetsSize": 157272,
       "auxiliaryAssets": [
         {
           "name": "bundle.js.map",
-          "size": 464846
+          "size": 464931
         },
         {
           "name": "main.css.map",
@@ -74364,7 +74364,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 468056,
+      "auxiliaryAssetsSize": 468141,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -74383,15 +74383,15 @@
         },
         {
           "name": "bundle.js",
-          "size": 155565
+          "size": 155619
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 157218,
+      "assetsSize": 157272,
       "auxiliaryAssets": [
         {
           "name": "bundle.js.map",
-          "size": 464846
+          "size": 464931
         },
         {
           "name": "main.css.map",
@@ -74399,7 +74399,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 468056,
+      "auxiliaryAssetsSize": 468141,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -74412,10 +74412,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "6920aba7647b0ab7f388",
+      "hash": "4e52ef62cff1d6413eae",
       "version": "5.94.0",
-      "time": 81,
-      "builtAt": 1725866133088,
+      "time": 55,
+      "builtAt": 1725970531236,
       "publicPath": "",
       "outputPath": "/Users/pakxe/Desktop/wtc/perf-basecamp/dist",
       "assetsByChunkName": {},
@@ -74426,9 +74426,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 1451,
+          "size": 1763,
           "sizes": {
-            "javascript": 1011,
+            "javascript": 1323,
             "runtime": 440
           },
           "names": [
@@ -74440,7 +74440,7 @@
           ],
           "files": [],
           "auxiliaryFiles": [],
-          "hash": "629e7b0877e5f0102be2",
+          "hash": "9cec04f8c903219311e2",
           "childrenByOrder": {},
           "id": 394,
           "siblings": [],
@@ -74451,9 +74451,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 934,
+              "size": 1246,
               "sizes": {
-                "javascript": 934
+                "javascript": 1246
               },
               "built": true,
               "codeGenerated": true,
@@ -74781,9 +74781,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 934,
+          "size": 1246,
           "sizes": {
-            "javascript": 934
+            "javascript": 1246
           },
           "built": true,
           "codeGenerated": true,
